@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+}
+
+#main-header{
+    background-color: rgba(13, 28, 54, 0.904);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium';
+    margin-bottom: 40px;
+}
+
+.countdown-block{
+    margin: 5%;
+}
+
+.countdown-img{
+    float: left;
+    margin-right: 5%;
+}
+
+.title-text{
+    font-family: 'Aharoni';
+}
+
+.event-date-description{
+    font-family: 'Arial';
+    font-size: 18px;
+}
+
+.description{
+    font-family: 'Trebuchet MS';
+    text-align: justify;
+    font-size: 15px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    line-height: 1.6;
+    color: rgb(92, 89, 89);
+}
+
+.countdown-box{
+    border-radius: 3px;
+    background-color: rgba(13, 28, 54, 0.904);
+    color: white;
+    text-align: center;
+    width: 80px;
+    height: 70px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.in-box-elements{
+    padding-top: 10px;
+    font-family: Franklin Gothic Medium;
+}
+
+.time{
+    font-size: 20px;
+}
+
+.expired{
+    font-family: Franklin Gothic Medium;
+    font-size: 40px;
+    color: rgb(170, 44, 27);
+    text-align: center;
+    border-bottom: 3px solid rgb(170, 44, 27);
+    margin-left: 5%;
+}
